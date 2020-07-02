@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Post Graduation at VIT <span>2019-present</span></h2>
+                        <p>I worked on research projects at Vellore Institute of Technology under the supervision of [Prof.SenthilKumar N] on Movie Success Prediction using Data Mining. My Capstone (thesis) was focused on Motion Picture recommendation analysis using Content and Collaborative filtering.</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Graduation at University of Delhi <span>2016-2019</span></h2>
+                        <p> I have done my B.Sc(H) Computer Science from Atman Ram Sanatan Dharam College, University of Delhi. There I developed keen interset in coding and fundamental concepts of computer which helped me to proceed with confidence to pursue post graduation in the field. </p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Primary and Higher Education <span>2003-2016</span></h2>
+                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 89.6 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
                       </div>
                     </div>
                   </article>
